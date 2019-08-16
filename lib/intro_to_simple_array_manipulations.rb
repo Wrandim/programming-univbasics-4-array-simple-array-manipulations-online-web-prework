@@ -50,4 +50,6 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
    new_array = list_of_programming_languages.insert(4, another_language)
  end
  
+ #using_uniq
  
+ def using_uniq
