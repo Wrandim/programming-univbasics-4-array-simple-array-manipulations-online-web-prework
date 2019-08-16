@@ -17,4 +17,6 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
    p deleted_string
  end
  
+ #pop_with_args
  
+ def 
