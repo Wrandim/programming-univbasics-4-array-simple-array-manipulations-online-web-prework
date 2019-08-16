@@ -19,4 +19,9 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
  
  #pop_with_args
  
- def 
+ def pop_with_args(dog_breeds)
+   small_dogs = dog_breeds.pop(2)
+   p small_dogs
+ end
+ 
+ 
