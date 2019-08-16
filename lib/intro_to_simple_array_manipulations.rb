@@ -52,4 +52,5 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
  
  #using_uniq
  
- def using_uniq
+ def using_uniq(haircuts)
+   new_array = haircuts.uniq 
