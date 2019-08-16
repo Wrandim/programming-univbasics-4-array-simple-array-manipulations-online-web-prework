@@ -56,4 +56,11 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
    new_array = haircuts.uniq 
  end
  
+ #using_flatten
+ 
+ def using_flatten(instruments)
+   flat_array = instruments.flatten 
+   p flat_array
+ end
+ 
  
