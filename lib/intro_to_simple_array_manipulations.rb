@@ -66,7 +66,7 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
  #using_delete
  
  def using_delete(instructors, "Steven")
-   no_offense_steven = instructors.delete("Steven")
+   no_offense_steven = instructors.delete(Steven)
  end
  
  
