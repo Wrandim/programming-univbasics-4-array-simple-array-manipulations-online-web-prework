@@ -12,4 +12,9 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
  
  #using_pop
  
- def using_pop
+ def using_pop(continents)
+   deleted_string = using_pop.pop(continents)
+   p deleted_string
+ end
+ 
+ 
