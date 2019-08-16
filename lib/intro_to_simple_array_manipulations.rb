@@ -24,4 +24,6 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
    p small_dogs
  end
  
+ #using_unshift
  
+ def using_shift
