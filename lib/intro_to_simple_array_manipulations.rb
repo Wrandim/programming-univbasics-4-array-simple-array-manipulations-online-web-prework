@@ -54,3 +54,6 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
  
  def using_uniq(haircuts)
    new_array = haircuts.uniq 
+ end
+ 
+ 
