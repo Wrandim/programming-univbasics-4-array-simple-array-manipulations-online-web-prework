@@ -26,4 +26,9 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
  
  #using_unshift
  
- def using_shift
+ def using_shift(my_favorite_cities)
+   im_so_over_this_city = my_favorite_cities.shift
+   p im_so_over_this_city
+ end
+ 
+ 
