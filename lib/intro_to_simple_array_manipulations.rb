@@ -10,4 +10,6 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
   updated_array = bouroughs_in_nyc.unshift(new_neighborhood)
  end
  
+ #using_pop
  
+ def using_pop
