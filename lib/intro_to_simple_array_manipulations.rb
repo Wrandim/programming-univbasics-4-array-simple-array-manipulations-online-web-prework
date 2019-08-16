@@ -69,4 +69,10 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
    no_offense_steven = instructors.delete("Steven")
  end
  
+ #using_delete_at
+ 
+ def using_delete_at(famous_robots, 2)
+   deleted_robot = famous_robots.delete(2)
+ end
+ 
  
