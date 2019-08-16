@@ -1,6 +1,6 @@
 #using_push
 
-def colors_in_the_rainbow
-  colors_in_the_rainbow.push("violet")
+def using_push(colors_in_the_rainbow, next_color)
+  using_push("violet")
 end
 
