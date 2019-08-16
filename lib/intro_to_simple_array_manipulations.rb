@@ -41,4 +41,7 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
  #using_concat
  
  def using_concat(my_favorite_things, more_favs)
-   all_my_favs = 
+   all_my_favs = (my_favorite_things).concat(more_favs)
+ end
+ 
+ 
