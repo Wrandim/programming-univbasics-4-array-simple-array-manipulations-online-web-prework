@@ -38,4 +38,7 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
    p brands_removed
  end
  
+ #using_concat
  
+ def using_concat(my_favorite_things, more_favs)
+   all_my_favs = 
