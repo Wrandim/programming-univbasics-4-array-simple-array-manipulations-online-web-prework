@@ -44,4 +44,7 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
    all_my_favs = (my_favorite_things).concat(more_favs)
  end
  
+ #using_insert
  
+ def using_insert(list_of_programming_languages, another_language)
+   new_array = list_of_programming_languages.insert(3)
