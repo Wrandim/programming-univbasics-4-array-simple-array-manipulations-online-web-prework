@@ -71,7 +71,7 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
  
  #using_delete_at
  
- def using_delete_at(famous_robots)
+ def using_delete_at
    deleted_robot = famous_robots.delete_at(2)
  end
  
