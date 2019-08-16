@@ -31,4 +31,11 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
    p im_so_over_this_city
  end
  
+ #shift_with_args
+ 
+ def shift_with_args(ice_cream_brands)
+   brands_removed = ice_cream_brands.shift(2)
+   p brands_removed
+ end
+ 
  
